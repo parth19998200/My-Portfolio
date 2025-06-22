@@ -11,7 +11,7 @@
   },
   "scripts": {
     "build": "[my-framework] build --output public"
-      }
+  
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
