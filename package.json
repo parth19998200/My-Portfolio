@@ -9,11 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "scripts": {
-    "dev": "npm run dev"
-  
-  },
-  "dependencies": {
+    "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-three/cannon": "^6.6.0",
     "@react-three/drei": "^9.120.4",
