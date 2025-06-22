@@ -9,6 +9,11 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  {
+  "scripts": {
+    "build": "[my-framework] build --output public"
+      }
+  },
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-three/cannon": "^6.6.0",
